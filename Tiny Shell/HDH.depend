@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1710860330 source:c:\users\anh\onedrive - hanoi university of science and technology\desktop\hdh\hdh\main.cpp
+	<iostream>
+	<windows.h>
+	<string.h>
+	<psapi.h>
+	<cstdlib>
+	<sysinfoapi.h>
+	<processthreadsapi.h>
+	<tchar.h>
+
